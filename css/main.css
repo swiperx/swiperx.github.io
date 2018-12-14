@@ -2,7 +2,18 @@ body{
     padding: 30px;
     font-family: 'Roboto', sans-serif;
 }
-p, li {
+p {
     font-size: 15px;
     font-family: 'Roboto', sans-serif;
+}
+li {
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    padding: 5px;
+}
+ol {
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    list-style: none;
+    padding: 10px;
 }
